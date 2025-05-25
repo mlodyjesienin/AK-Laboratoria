@@ -1,4 +1,5 @@
 [deps]
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 Oscar = "f1435218-dba5-11e9-1e4d-f1a5fab5fc13"
+Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
